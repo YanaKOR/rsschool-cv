@@ -1,1 +1,1 @@
-# rsschool-cv
+https://github.com/YanaKOR/rsschool-cv
