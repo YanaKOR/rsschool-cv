@@ -73,3 +73,28 @@ october 2020 - continue to work
 *Small games (labirint,  tic-tac-toe,  solar system  etс)*, _modals,  slider,  menu,  player , form validation_, _animation (css, dom elements animation js)_, *other*...
 
 ***
+## Code example:
+```
+window.onload = function() {
+	var count = 0; 
+	var message = "You clicked me ";
+	var div = document.getElementById("message");
+
+	var button = document.getElementById("clickme");
+	button.onclick = function() {
+		count++;
+		div.innerHTML = message + count + " times!";
+	};
+};
+
+```
+***
+## ADDITIONALLY
+
+* I keep learning
+
+* I try to lead a healthy lifestyle
+
+* I try to think positively
+
+* Driving license (categories): B
