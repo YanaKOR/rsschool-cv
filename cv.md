@@ -49,3 +49,27 @@ It's easy and interesting with me. Communicative. I prefer to communicate with t
 - Drupal
 
 ***
+## EDUCATION
+
+1. BSUIR - Electronic economy (graduate student) 2021-2023
+
+2. BSUIR - Web-DESIGN 2019-2021
+
+3. BSPU - Тeacher
+
+**ENGLISH**
+
+Pre-Intermediate + (STREAMLINE-school), 
+I continue to study
+
+***
+
+## WORK EXPERIENCE
+
+**Web-developer**  : Freelance, self-employed
+
+october 2020 - continue to work
+
+*Small games (labirint,  tic-tac-toe,  solar system  etс)*, _modals,  slider,  menu,  player , form validation_, _animation (css, dom elements animation js)_, *other*...
+
+***
